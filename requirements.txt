@@ -1,0 +1,18 @@
+# Serial Communication
+pyserial>=3.5
+
+# Data Processing & Analysis
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Optional: Machine Learning (uncomment if needed)
+# scikit-learn>=1.3.0
+# tensorflow>=2.13.0
+# torch>=2.0.0
+
+# Optional: Visualization (uncomment if needed)
+# matplotlib>=3.7.0
+# seaborn>=0.12.0
+
+# Optional: Computer Vision (uncomment if needed)
+# opencv-python>=4.8.0
